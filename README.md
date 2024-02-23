@@ -6,9 +6,9 @@ y de forma autodidacta, intento aprender todos los días un poco más acerca el 
 
 ## 🧐 Acerca de mí
 <ul>
-  <li>🔸 Amo el mate 🧉.</li>
-  <li>🔸 Me encanta el fútbol ⚽.</li>
-  <li>🔸 Me gusta leer 📖.</li>
+  <li> Amo el mate 🧉.</li>
+  <li> Me encanta el fútbol ⚽.</li>
+  <li> Me gusta leer 📖.</li>
 </ul>
 
 ## 👨‍💻 Poseo conocimientos en:
