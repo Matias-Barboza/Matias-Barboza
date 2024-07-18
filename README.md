@@ -1,8 +1,7 @@
 ## Hola! 👋
 
 Soy Matias, un apasionado del mundo de la informatica en general. :computer: <br>
-Actualmente me encuentro cursando la carrera Tecnicatura Universitaria en programación, en UTN,
-y de forma autodidacta, intento aprender todos los días un poco más acerca el desarrollo de software.
+Técnico en programación principalmente enfocado en backend con .NET que de forma autodidacta busca aprender todos los días un poco más acerca el desarrollo de software.
 
 ## 🧐 Acerca de mí
 <ul>
